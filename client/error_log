@@ -1,0 +1,1518 @@
+[13-Jun-2025 11:53:24 UTC] Estatísticas: Array
+(
+    [ativos] => 4
+    [vencidos] => 0
+    [total] => 4
+)
+
+[14-Jun-2025 20:28:48 UTC] Estatísticas: Array
+(
+    [ativos] => 72
+    [vencidos] => 2
+    [total] => 74
+)
+
+[15-Jun-2025 18:14:05 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[15-Jun-2025 18:14:15 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:15 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:14:15 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:14:15 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:14:22 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:22 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:14:22 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:14:22 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:14:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:14:52 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:14:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:14:52 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:15:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:14 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:15:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:15:14 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:15:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:40 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:15:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:15:40 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:15:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:47 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:15:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:15:47 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:15:54 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:15:54 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:15:54 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:15:54 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:16:00 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:00 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:16:00 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:16:00 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:16:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:30 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:16:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:16:30 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:16:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:16:58 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:16:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:16:58 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:17:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:08 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:17:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:17:08 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:17:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:14 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:17:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:17:14 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:17:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:28 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:17:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:17:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:17:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:45 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:17:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:17:45 UTC] No template found for cliente_id 2, using fallback for user_id 
+[15-Jun-2025 18:17:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[15-Jun-2025 18:17:48 UTC] Template selected for user_id : ID=, Titulo=
+[15-Jun-2025 18:17:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[15-Jun-2025 18:17:48 UTC] No template found for cliente_id 2, using fallback for user_id 
+[16-Jun-2025 11:22:17 UTC] Estatísticas: Array
+(
+    [ativos] => 73
+    [vencidos] => 1
+    [total] => 74
+)
+
+[20-Jun-2025 10:38:30 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 3
+    [total] => 74
+)
+
+[20-Jun-2025 10:38:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:34 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:38:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:38:34 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:38:41 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:38:41 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:38:41 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:38:41 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:39:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:45 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:39:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:39:45 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:39:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:39:55 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:39:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:39:55 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:40:04 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:04 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:40:04 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:40:04 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:40:42 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:42 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:40:42 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:40:42 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:40:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:40:59 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:40:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:40:59 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:41:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:31 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:41:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:41:31 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:41:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:40 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:41:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:41:40 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:41:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:41:55 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:41:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:41:55 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:43:02 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:02 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:43:02 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:43:02 UTC] No template found for cliente_id 2, using fallback for user_id 
+[20-Jun-2025 10:43:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[20-Jun-2025 10:43:08 UTC] Template selected for user_id : ID=, Titulo=
+[20-Jun-2025 10:43:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[20-Jun-2025 10:43:08 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:38:47 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 3
+    [total] => 74
+)
+
+[23-Jun-2025 11:39:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:11 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:39:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:39:11 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:39:15 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 3
+    [total] => 74
+)
+
+[23-Jun-2025 11:39:37 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:37 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:39:37 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:39:37 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:39:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:39:48 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:39:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:39:48 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:40:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:09 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:40:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:40:09 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:40:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:17 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:40:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:40:17 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:40:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:27 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:40:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:40:27 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:40:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:40:56 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:40:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:40:56 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:41:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:16 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:41:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:41:16 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:41:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:48 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:41:48 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:41:48 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:41:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:41:56 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:41:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:41:56 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:42:32 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:32 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:42:32 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:42:32 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:42:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:42:58 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:42:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:42:58 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:43:03 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:03 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:43:03 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:43:03 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:43:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:05 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:43:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:43:05 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:43:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:43:11 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:43:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:43:11 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:45:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:09 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:45:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:45:09 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:45:12 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:12 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:45:12 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:45:12 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:45:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:23 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:45:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:45:23 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:45:32 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:45:32 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:45:32 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:45:32 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:53:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:05 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:53:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:53:05 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:53:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:17 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:53:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:53:17 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:53:21 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:21 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:53:21 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:53:21 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:53:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:24 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:53:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:53:24 UTC] No template found for cliente_id 2, using fallback for user_id 
+[23-Jun-2025 11:53:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[23-Jun-2025 11:53:27 UTC] Template selected for user_id : ID=, Titulo=
+[23-Jun-2025 11:53:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[23-Jun-2025 11:53:27 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 15:32:18 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 15:32:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:31 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 15:32:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 15:32:31 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 15:32:34 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 15:32:36 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 15:32:36 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 15:32:36 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 15:32:36 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:06:39 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 16:06:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:06:52 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:06:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:06:52 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:07:20 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 16:07:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:28 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:07:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:07:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:07:30 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 16:07:40 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 16:07:42 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 4
+    [total] => 74
+)
+
+[28-Jun-2025 16:07:46 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:46 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:07:46 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:07:46 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:07:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:07:55 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:07:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:07:55 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:08:03 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:03 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:08:03 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:08:03 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:08:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:16 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:08:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:08:16 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:08:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:08:57 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:08:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:08:57 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:09:29 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:29 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:09:29 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:09:29 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:09:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:38 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:09:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:09:38 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:09:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:09:58 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:09:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:09:58 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:10:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:08 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:10:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:10:08 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:10:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:10:28 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:10:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:10:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:12:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:12:30 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:12:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:12:30 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:13:25 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:13:25 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:13:25 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:13:25 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:14:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:14:28 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:14:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:14:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:16:00 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:00 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:16:00 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:16:00 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:16:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:05 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:16:05 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:16:05 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:16:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:16:47 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:16:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:16:47 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:18:29 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:18:29 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:18:29 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:18:29 UTC] No template found for cliente_id 2, using fallback for user_id 
+[28-Jun-2025 16:19:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[28-Jun-2025 16:19:23 UTC] Template selected for user_id : ID=, Titulo=
+[28-Jun-2025 16:19:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[28-Jun-2025 16:19:23 UTC] No template found for cliente_id 2, using fallback for user_id 
+[30-Jun-2025 16:54:24 UTC] Estatísticas: Array
+(
+    [ativos] => 4
+    [vencidos] => 0
+    [total] => 4
+)
+
+[30-Jun-2025 16:54:39 UTC] Estatísticas: Array
+(
+    [ativos] => 4
+    [vencidos] => 0
+    [total] => 4
+)
+
+[30-Jun-2025 16:54:43 UTC] Estatísticas: Array
+(
+    [ativos] => 4
+    [vencidos] => 0
+    [total] => 4
+)
+
+[30-Jun-2025 16:54:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:45 UTC] Template selected for user_id : ID=, Titulo=
+[30-Jun-2025 16:54:45 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[30-Jun-2025 16:54:45 UTC] No template found for cliente_id 1, using fallback for user_id 
+[30-Jun-2025 16:54:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:54:52 UTC] Template selected for user_id : ID=, Titulo=
+[30-Jun-2025 16:54:52 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[30-Jun-2025 16:54:52 UTC] No template found for cliente_id 1, using fallback for user_id 
+[30-Jun-2025 16:55:01 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:01 UTC] Template selected for user_id : ID=, Titulo=
+[30-Jun-2025 16:55:01 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[30-Jun-2025 16:55:01 UTC] No template found for cliente_id 1, using fallback for user_id 
+[30-Jun-2025 16:55:07 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[30-Jun-2025 16:55:07 UTC] Template selected for user_id : ID=, Titulo=
+[30-Jun-2025 16:55:07 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[30-Jun-2025 16:55:07 UTC] No template found for cliente_id 1, using fallback for user_id 
+[04-Jul-2025 20:31:45 UTC] Estatísticas: Array
+(
+    [ativos] => 72
+    [vencidos] => 8
+    [total] => 80
+)
+
+[05-Jul-2025 17:05:13 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 9
+    [total] => 80
+)
+
+[05-Jul-2025 17:05:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:24 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:05:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:05:24 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:05:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:05:28 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:05:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:05:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:06:36 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:36 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:06:36 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:06:36 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:06:41 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:06:41 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:06:41 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:06:41 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:07:22 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:22 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:07:22 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:07:22 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:07:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:24 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:07:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:07:24 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:07:37 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:07:37 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:07:37 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:07:37 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:20 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:20 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:20 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:20 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:23 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:23 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:23 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:31 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:31 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:31 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:33 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:33 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:33 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:33 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:40 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:40 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:40 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:08:42 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:08:42 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:08:42 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:08:42 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:09:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:38 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:09:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:09:38 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:09:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:09:57 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:09:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:09:57 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:10:19 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:19 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:10:19 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:10:19 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:10:44 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:44 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:10:44 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:10:44 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:10:50 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[05-Jul-2025 17:10:50 UTC] Template selected for user_id : ID=, Titulo=
+[05-Jul-2025 17:10:50 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[05-Jul-2025 17:10:50 UTC] No template found for cliente_id 2, using fallback for user_id 
+[05-Jul-2025 17:10:57 UTC] Estatísticas: Array
+(
+    [ativos] => 75
+    [vencidos] => 5
+    [total] => 80
+)
+
+[11-Jul-2025 20:43:42 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 10
+    [total] => 80
+)
+
+[14-Jul-2025 18:08:43 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 10
+    [total] => 80
+)
+
+[14-Jul-2025 18:08:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:56 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:08:56 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:08:56 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:08:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:08:59 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:08:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:08:59 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:11:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:11:27 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:11:27 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:11:27 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:13:03 UTC] Estatísticas: Array
+(
+    [ativos] => 70
+    [vencidos] => 10
+    [total] => 80
+)
+
+[14-Jul-2025 18:13:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:13:14 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:13:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:13:14 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:20:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:34 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:20:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:20:34 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:20:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:38 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:20:38 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:20:38 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:20:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:55 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:20:55 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:20:55 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:20:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:20:57 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:20:57 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:20:57 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:21:02 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:02 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:21:02 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:21:02 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:21:15 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:15 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:21:15 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:21:15 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:21:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:16 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:21:16 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:21:16 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:21:25 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 9
+    [total] => 80
+)
+
+[14-Jul-2025 18:21:33 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[14-Jul-2025 18:21:33 UTC] Template selected for user_id : ID=, Titulo=
+[14-Jul-2025 18:21:33 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[14-Jul-2025 18:21:33 UTC] No template found for cliente_id 2, using fallback for user_id 
+[14-Jul-2025 18:21:36 UTC] Estatísticas: Array
+(
+    [ativos] => 71
+    [vencidos] => 9
+    [total] => 80
+)
+
+[16-Jul-2025 19:57:08 UTC] Estatísticas: Array
+(
+    [ativos] => 69
+    [vencidos] => 11
+    [total] => 80
+)
+
+[18-Jul-2025 21:34:44 UTC] Estatísticas: Array
+(
+    [ativos] => 68
+    [vencidos] => 12
+    [total] => 80
+)
+
+[18-Jul-2025 21:34:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[18-Jul-2025 21:34:47 UTC] Template selected for user_id : ID=, Titulo=
+[18-Jul-2025 21:34:47 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[18-Jul-2025 21:34:47 UTC] No template found for cliente_id 2, using fallback for user_id 
+[24-Jul-2025 12:31:21 UTC] Estatísticas: Array
+(
+    [ativos] => 63
+    [vencidos] => 17
+    [total] => 80
+)
+
+[24-Jul-2025 12:31:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[24-Jul-2025 12:31:34 UTC] Template selected for user_id : ID=, Titulo=
+[24-Jul-2025 12:31:34 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[24-Jul-2025 12:31:34 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 18:51:54 UTC] Estatísticas: Array
+(
+    [ativos] => 62
+    [vencidos] => 18
+    [total] => 80
+)
+
+[25-Jul-2025 18:51:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:51:59 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 18:51:59 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 18:51:59 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 18:52:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:52:14 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 18:52:14 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 18:52:14 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 18:57:26 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:57:26 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 18:57:26 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 18:57:26 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 18:57:32 UTC] Estatísticas: Array
+(
+    [ativos] => 62
+    [vencidos] => 18
+    [total] => 80
+)
+
+[25-Jul-2025 18:58:20 UTC] Estatísticas: Array
+(
+    [ativos] => 62
+    [vencidos] => 18
+    [total] => 80
+)
+
+[25-Jul-2025 18:58:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:24 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 18:58:24 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 18:58:24 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 18:58:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 18:58:30 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 18:58:30 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 18:58:30 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 20:38:53 UTC] Estatísticas: Array
+(
+    [ativos] => 62
+    [vencidos] => 18
+    [total] => 80
+)
+
+[25-Jul-2025 20:40:13 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:13 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 20:40:13 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 20:40:13 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 20:40:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:40:17 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 20:40:17 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 20:40:17 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 20:43:21 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:43:21 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 20:43:21 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 20:43:21 UTC] No template found for cliente_id 2, using fallback for user_id 
+[25-Jul-2025 20:47:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[25-Jul-2025 20:47:28 UTC] Template selected for user_id : ID=, Titulo=
+[25-Jul-2025 20:47:28 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[25-Jul-2025 20:47:28 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:16:37 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:16:51 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:16:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:16:58 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:16:58 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:16:58 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:19:07 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:19:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:19:09 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:19:09 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:19:09 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:19:19 UTC] Cliente ID na sessão: 2
+[11-Aug-2025 15:19:19 UTC] Aluguéis encontrados: 1 para cliente_id = 2
+[11-Aug-2025 15:19:19 UTC] Aluguéis: [{"id":"2","produto":null,"quantidade":"1","data_aluguel":"2025-06-06 13:53:45","status":"ativo","url_download":"http:\/\/aftv.news\/8498754","site":"https:\/\/alfa.appsx.top","usuario":"admin","senha":"$2y$10$S3UUj8auVNF4fnBirkMVGOOK5LIWEHFwUYkIamX6J7n9Mp7cIkFOa","chave_pix":"309.675.268-09"}]
+[11-Aug-2025 15:19:19 UTC] Compras encontradas: 0 para cliente_id = 2
+[11-Aug-2025 15:19:19 UTC] Compras: []
+[11-Aug-2025 15:19:19 UTC] PHP Notice:  Undefined index: produto_id in /home/appsxtop/gestorx.cloud/client/produtos.php on line 425
+[11-Aug-2025 15:19:37 UTC] Cliente ID na sessão: 2
+[11-Aug-2025 15:19:37 UTC] Aluguéis encontrados: 1 para cliente_id = 2
+[11-Aug-2025 15:19:37 UTC] Aluguéis: [{"id":"2","produto":null,"quantidade":"1","data_aluguel":"2025-06-06 13:53:45","status":"ativo","url_download":"http:\/\/aftv.news\/8498754","site":"https:\/\/alfa.appsx.top","usuario":"admin","senha":"$2y$10$S3UUj8auVNF4fnBirkMVGOOK5LIWEHFwUYkIamX6J7n9Mp7cIkFOa","chave_pix":"309.675.268-09"}]
+[11-Aug-2025 15:19:37 UTC] Compras encontradas: 0 para cliente_id = 2
+[11-Aug-2025 15:19:37 UTC] Compras: []
+[11-Aug-2025 15:19:37 UTC] PHP Notice:  Undefined index: produto_id in /home/appsxtop/gestorx.cloud/client/produtos.php on line 425
+[11-Aug-2025 15:20:00 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:20:01 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:01 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:20:01 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:20:01 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:20:04 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:04 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:20:04 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:20:04 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:20:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:20:08 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:20:08 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:20:08 UTC] No template found for cliente_id 2, using fallback for user_id 
+[11-Aug-2025 15:20:13 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:21:04 UTC] Estatísticas: Array
+(
+    [ativos] => 49
+    [vencidos] => 31
+    [total] => 80
+)
+
+[11-Aug-2025 15:21:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Notice:  Undefined variable: selectedTemplateid in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Warning:  Use of undefined constant selectedTemplate - assumed 'selectedTemplate' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Warning:  Use of undefined constant tulo - assumed 'tulo' (this will throw an Error in a future version of PHP) in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] PHP Notice:  Undefined variable: selectedTemplatetulo in /home/appsxtop/gestorx.cloud/client/users.php on line 938
+[11-Aug-2025 15:21:11 UTC] Template selected for user_id : ID=, Titulo=
+[11-Aug-2025 15:21:11 UTC] PHP Notice:  Undefined variable: id in /home/appsxtop/gestorx.cloud/client/users.php on line 943
+[11-Aug-2025 15:21:11 UTC] No template found for cliente_id 2, using fallback for user_id 

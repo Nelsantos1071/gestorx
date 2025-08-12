@@ -1,0 +1,108 @@
+/* Sidebar */
+.sidebar {
+  width: 200px;
+  background: #293a5e;
+  color: white;
+  padding: 15px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  overflow-y: auto;
+  transition: transform 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  z-index: 1000;
+}
+
+.sidebar h3 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #f0a500;
+  flex-shrink: 0;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex-grow: 1;
+}
+
+.sidebar ul li {
+  margin: 8px 0;
+  position: relative;
+  border-bottom: 1px solid #ffffff1a;
+  padding-bottom: 8px;
+}
+
+.sidebar ul li:last-child {
+  border-bottom: none;
+}
+
+.sidebar ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 12px;
+  display: block;
+  border-radius: 5px;
+  transition: background 0.3s ease-in-out;
+}
+
+.sidebar ul li a:hover {
+  background: #f0a500;
+  color: #222;
+}
+
+/* Ícone do Menu (Hambúrguer) */
+.menu-icon {
+  display: none;
+  cursor: pointer;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1100;
+  width: 35px;
+  height: 30px;
+}
+
+.menu-icon div {
+  width: 35px;
+  height: 5px;
+  background-color: #000;
+  margin: 6px 0;
+  border-radius: 5px;
+  transition: 0.4s;
+}
+
+.menu-icon.open div {
+  background-color: #fff;
+}
+
+.menu-icon.open div:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-icon.open div:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-icon.open div:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+  }
+
+  .sidebar.active {
+    transform: translateX(0);
+  }
+
+  .menu-icon {
+    display: block;
+  }
+}

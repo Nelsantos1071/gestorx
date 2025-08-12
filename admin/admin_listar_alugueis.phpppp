@@ -1,0 +1,363 @@
+<?php
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+require_once '../includes/db.php';
+
+if (!isset($_SESSION['admin_id']) || !is_int((int)$_SESSION['admin_id']) || (int)$_SESSION['admin_id'] <= 0) {
+    header("Location: admin_login.php?msg=" . urlencode("Por favor, faça login como administrador."));
+    exit;
+}
+
+$adminId = (int)$_SESSION['admin_id'];
+$error = '';
+$success = isset($_GET['success']) ? htmlspecialchars($_GET['success']) : '';
+if (isset($_GET['error'])) {
+    $error = htmlspecialchars($_GET['error']);
+}
+
+// Gerar ou reutilizar CSRF token
+if (!isset($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+
+// Processar ações
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    if (!isset($_POST['csrf_token']) || $_POST['csrf_token'] !== $_SESSION['csrf_token']) {
+        $error = "Erro de validação CSRF.";
+        error_log("CSRF validation failed");
+        header("Location: admin_listar_alugueis.php?error=" . urlencode($error));
+        exit;
+    }
+
+    try {
+        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        $pdo->exec("SET time_zone = '-03:00'");
+
+        if (isset($_POST['editar_cliente'])) {
+            $cliente_id = (int)$_POST['cliente_id'];
+            $nome = trim($_POST['nome']);
+            $email = trim($_POST['email']);
+            $telefone = isset($_POST['telefone']) ? preg_replace('/[^0-9]/', '', trim($_POST['telefone'])) : null;
+
+            if (empty($nome) || empty($email)) {
+                $error = "Nome e e-mail são obrigatórios.";
+            } elseif (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+                $error = "E-mail inválido.";
+            } elseif ($telefone && strlen($telefone) < 10) {
+                $error = "Telefone inválido.";
+            } else {
+                $sql = "UPDATE clientes SET nome = ?, email = ?";
+                $params = [$nome, $email];
+                if ($telefone !== null) {
+                    $sql .= ", telefone = ?";
+                    $params[] = $telefone;
+                }
+                $sql .= " WHERE id = ?";
+                $params[] = $cliente_id;
+
+                $stmt = $pdo->prepare($sql);
+                $stmt->execute($params);
+                $success = "Dados do cliente atualizados com sucesso!";
+                error_log("Cliente atualizado: id=$cliente_id, nome=$nome, email=$email");
+                header("Location: admin_listar_alugueis.php?success=" . urlencode($success));
+                exit;
+            }
+        } elseif (isset($_POST['ativar_aluguel'])) {
+            $aluguel_id = (int)$_POST['aluguel_id'];
+            $stmt = $pdo->prepare("UPDATE alugueis SET status = 'ativo' WHERE id = ?");
+            $stmt->execute([$aluguel_id]);
+            $success = "Aluguel ativado com sucesso!";
+            error_log("Aluguel ativado: id=$aluguel_id");
+            header("Location: admin_listar_alugueis.php?success=" . urlencode($success));
+            exit;
+        } elseif (isset($_POST['desativar_aluguel'])) {
+            $aluguel_id = (int)$_POST['aluguel_id'];
+            $stmt = $pdo->prepare("UPDATE alugueis SET status = 'inativo' WHERE id = ?");
+            $stmt->execute([$aluguel_id]);
+            $success = "Aluguel desativado com sucesso!";
+            error_log("Aluguel desativado: id=$aluguel_id");
+            header("Location: admin_listar_alugueis.php?success=" . urlencode($success));
+            exit;
+        } elseif (isset($_POST['excluir_aluguel'])) {
+            $aluguel_id = (int)$_POST['aluguel_id'];
+            $stmt = $pdo->prepare("DELETE FROM alugueis WHERE id = ?");
+            $stmt->execute([$aluguel_id]);
+            $success = "Aluguel excluído com sucesso!";
+            error_log("Aluguel excluído: id=$aluguel_id");
+            header("Location: admin_listar_alugueis.php?success=" . urlencode($success));
+            exit;
+        }
+    } catch (PDOException $e) {
+        $error = "Erro ao processar ação: " . htmlspecialchars($e->getMessage()) . " (Code: " . $e->getCode() . ")";
+        error_log("Erro PDO: " . $e->getMessage());
+        header("Location: admin_listar_alugueis.php?error=" . urlencode($error));
+        exit;
+    }
+}
+
+// Buscar aluguéis
+$alugueis = [];
+try {
+    $stmt = $pdo->query("
+        SELECT a.id, a.cliente_id, c.nome as cliente_nome, p.titulo as servico, p.preco, a.quantidade, a.data_aluguel, a.status, a.data_fim
+        FROM alugueis a
+        LEFT JOIN clientes c ON a.cliente_id = c.id
+        LEFT JOIN produtos_servicos p ON a.servico_id = p.id
+        WHERE a.data_cancelamento IS NULL
+        ORDER BY a.data_aluguel DESC
+    ");
+    $alugueis = $stmt->fetchAll(PDO::FETCH_ASSOC);
+    error_log("Aluguéis encontrados: " . count($alugueis));
+} catch (PDOException $e) {
+    $error = "Erro ao buscar aluguéis: " . htmlspecialchars($e->getMessage()) . " (Code: " . $e->getCode() . ")";
+    error_log("Erro ao buscar aluguéis: " . $e->getMessage());
+}
+?>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Listar Aluguéis - Painel Administrativo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body, html { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f5f7fa; color: #333; height: 100vh; overflow-x: hidden; }
+        a { text-decoration: none; color: inherit; }
+        main { margin-left: 240px; padding: 20px 30px; min-height: 100vh; background: #fff; box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1); display: flex; flex-direction: column; gap: 20px; transition: margin-left 0.3s ease; }
+        .welcome-message { text-align: center; color: #2c3e50; font-weight: 600; font-size: 2rem; margin-bottom: 20px; }
+        .welcome-message p { font-weight: 400; font-size: 1.1rem; color: #666; margin-top: 8px; }
+        .alugueis-section { max-width: 1200px; margin: 0 auto; }
+        .alugueis-section h2 { color: #2c3e50; font-weight: 600; font-size: 1.8rem; margin-bottom: 20px; text-align: center; }
+        .alugueis-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08); overflow: hidden; }
+        .alugueis-table th, .alugueis-table td { padding: 15px; text-align: left; font-size: 0.95rem; color: #333; }
+        .alugueis-table th { background: #2c3e50; color: #fff; font-weight: 600; }
+        .alugueis-table tr:nth-child(even) { background: #f9fafb; }
+        .alugueis-table tr:hover { background: #e8f4f8; transition: background 0.2s ease; }
+        .alugueis-table tr.inativo { background: #fff3f3; }
+        .alugueis-table tr.inativo:hover { background: #ffe6e6; }
+        .action-button { padding: 8px 12px; background: #2c3e50; color: #fff; border: none; border-radius: 4px; cursor: pointer; margin-right: 5px; font-size: 0.9rem; }
+        .action-button:hover { background: #1a252f; }
+        .add-product-button { padding: 10px 20px; background: #28a745; color: #fff; border: none; border-radius: 4px; cursor: pointer; font-size: 1rem; margin-bottom: 15px; display: inline-block; }
+        .add-product-button:hover { background: #218838; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); justify-content: center; align-items: center; z-index: 1000; }
+        .modal-content { background: #fff; padding: 20px; border-radius: 8px; max-width: 500px; width: 90%; position: relative; }
+        .modal-content h3 { margin-bottom: 15px; color: #2c3e50; }
+        .modal-content form { display: flex; flex-direction: column; gap: 12px; }
+        .modal-content label { font-weight: 500; color: #2c3e50; }
+        .modal-content input { padding: 8px; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem; }
+        .modal-content button { padding: 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 0.95rem; }
+        .modal-content .edit-button { background: #28a745; color: #fff; }
+        .modal-content .edit-button:hover { background: #218838; }
+        .modal-content .activate-button { background: #007bff; color: #fff; }
+        .modal-content .activate-button:hover { background: #0056b3; }
+        .modal-content .deactivate-button { background: #dc3545; color: #fff; }
+        .modal-content .deactivate-button:hover { background: #c82333; }
+        .modal-content .delete-button { background: #dc3545; color: #fff; }
+        .modal-content .delete-button:hover { background: #c82333; }
+        .modal-content .close-button { position: absolute; top: 10px; right: 10px; font-size: 1.5rem; cursor: pointer; color: #666; }
+        .error-message { color: #dc3545; text-align: center; font-weight: 500; margin-bottom: 20px; padding: 10px; background: #f8d7da; border-radius: 4px; }
+        .success-message { color: #28a745; text-align: center; font-weight: 500; margin-bottom: 20px; padding: 10px; background: #d4edda; border-radius: 4px; }
+        .no-data { text-align: center; color: #666; font-style: italic; padding: 20px; font-size: 1rem; }
+        @media (max-width: 768px) {
+            main { margin-left: 0; padding: 20px; }
+            .welcome-message { font-size: 1.6rem; }
+            .alugueis-section h2 { font-size: 1.4rem; }
+            .alugueis-table th, .alugueis-table td { font-size: 0.9rem; padding: 12px; }
+            .action-button { padding: 6px 10px; font-size: 0.85rem; }
+            .add-product-button { font-size: 0.9rem; padding: 8px 15px; }
+        }
+        @media (max-width: 480px) {
+            .alugueis-table { font-size: 0.85rem; }
+            .alugueis-table th, .alugueis-table td { display: block; text-align: right; padding: 10px; }
+            .alugueis-table th::before, .alugueis-table td::before { content: attr(data-label); float: left; font-weight: 500; color: #2c3e50; }
+            .alugueis-table thead { display: none; }
+            .alugueis-table tr { margin-bottom: 10px; display: block; border-bottom: 2px solid #e9ecef; }
+            .action-button { display: inline-block; margin: 5px 0; }
+            .add-product-button { font-size: 0.85rem; padding: 6px 12px; }
+        }
+    </style>
+</head>
+<body>
+    <?php
+    try {
+        include_once __DIR__ . '/assets/sidebar.php';
+    } catch (Exception $e) {
+        error_log("Erro ao incluir sidebar: " . $e->getMessage());
+        echo "<!-- Erro ao incluir sidebar. Verifique o caminho: " . htmlspecialchars(__DIR__ . '/assets/sidebar.php') . " -->";
+    }
+    ?>
+
+    <main role="main" tabindex="0">
+        <section class="welcome-message" aria-label="Mensagem de boas-vindas">
+            <h1>Listar Aluguéis</h1>
+            <p>Gerencie os serviços alugados pelos clientes.</p>
+        </section>
+
+        <?php if (!empty($success)): ?>
+            <div class="success-message"><?php echo htmlspecialchars($success); ?></div>
+        <?php endif; ?>
+
+        <?php if (!empty($error)): ?>
+            <div class="error-message"><?php echo htmlspecialchars($error); ?></div>
+        <?php endif; ?>
+
+        <section class="alugueis-section" aria-label="Lista de aluguéis">
+            <h2>Serviços Alugados</h2>
+            <a href="admin_adicionar_aluguel.php" class="action-button">Adicionar Aluguel</a>
+            <?php if (empty($alugueis)): ?>
+                <p class="no-data">Nenhum aluguel registrado no momento.</p>
+            <?php else: ?>
+                <table class="alugueis-table">
+                    <thead>
+                        <tr>
+                            <th>Cliente</th>
+                            <th>Serviço</th>
+                            <th>Quantidade</th>
+                            <th>Valor Total</th>
+                            <th>Data de Aluguel</th>
+                            <th>Data de Fim</th>
+                            <th>Status</th>
+                            <th>Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <?php foreach ($alugueis as $aluguel): ?>
+                            <?php
+                            $valor = floatval($aluguel['preco']) * $aluguel['quantidade'];
+                            ?>
+                            <tr class="<?php echo $aluguel['status'] === 'inativo' ? 'inativo' : ''; ?>">
+                                <td data-label="Cliente"><?php echo htmlspecialchars($aluguel['cliente_nome'] ?? 'Cliente #' . $aluguel['cliente_id']); ?></td>
+                                <td data-label="Serviço"><?php echo htmlspecialchars($aluguel['servico'] ?? 'Serviço #' . $aluguel['servico_id']); ?></td>
+                                <td data-label="Quantidade"><?php echo htmlspecialchars($aluguel['quantidade']); ?></td>
+                                <td data-label="Valor Total">R$ <?php echo number_format($valor, 2, ',', '.'); ?></td>
+                                <td data-label="Data de Aluguel"><?php echo date('d/m/Y H:i', strtotime($aluguel['data_aluguel'])); ?></td>
+                                <td data-label="Data de Fim"><?php echo $aluguel['data_fim'] ? date('d/m/Y', strtotime($aluguel['data_fim'])) : '-'; ?></td>
+                                <td data-label="Status"><?php echo htmlspecialchars($aluguel['status']); ?></td>
+                                <td data-label="Ações">
+                                    <button class="action-button" onclick="openModal(<?php echo $aluguel['id']; ?>, <?php echo $aluguel['cliente_id']; ?>, '<?php echo htmlspecialchars($aluguel['cliente_nome'] ?? '', ENT_QUOTES); ?>', '<?php echo htmlspecialchars($aluguel['status'], ENT_QUOTES); ?>')">Ações</button>
+                                </td>
+                            </tr>
+                        <?php endforeach; ?>
+                    </tbody>
+                </table>
+            <?php endif; ?>
+        </section>
+
+        <div id="actionModal" class="modal">
+            <div class="modal-content">
+                <span class="close-button" onclick="closeModal()">×</span>
+                <h3>Ações do Aluguel</h3>
+                <div id="edit-cliente-section" style="display: none;">
+                    <form method="POST" action="admin_listar_alugueis.php">
+                        <input type="hidden" name="cliente_id" id="modal-cliente-id">
+                        <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($_SESSION['csrf_token']); ?>">
+                        <label for="modal-nome">Nome:</label>
+                        <input type="text" name="nome" id="modal-nome" required>
+                        <label for="modal-email">E-mail:</label>
+                        <input type="email" name="email" id="modal-email" required>
+                        <label for="modal-telefone">Telefone (opcional):</label>
+                        <input type="text" name="telefone" id="modal-telefone" maxlength="15">
+                        <button type="submit" name="editar_cliente" class="edit-button">Salvar Alterações</button>
+                    </form>
+                </div>
+                <div id="status-section">
+                    <form method="POST" action="admin_listar_alugueis.php" style="display: inline;">
+                        <input type="hidden" name="aluguel_id" id="modal-aluguel-id">
+                        <input type="hidden" name="csrf_token" value="<?php echo htmlspecialchars($_SESSION['csrf_token']); ?>">
+                        <button type="submit" name="ativar_aluguel" class="activate-button" id="ativar-button" style="display: none;" onclick="return confirm('Deseja ativar este aluguel?')">Ativar</button>
+                        <button type="submit" name="desativar_aluguel" class="deactivate-button" id="desativar-button" style="display: none;" onclick="return confirm('Deseja desativar este aluguel?')">Desativar</button>
+                        <button type="submit" name="excluir_aluguel" class="delete-button" onclick="return confirm('Deseja excluir este aluguel permanentemente?')">Excluir</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        function openModal(aluguelId, clienteId, clienteNome, status) {
+            console.log('Abrindo modal para aluguel_id=' + aluguelId);
+            const modal = document.getElementById('actionModal');
+            const clienteSection = document.getElementById('edit-cliente-section');
+            const aluguelIdInput = document.getElementById('modal-aluguel-id');
+            const clienteIdInput = document.getElementById('modal-cliente-id');
+            const nomeInput = document.getElementById('modal-nome');
+            const ativarButton = document.getElementById('ativar-button');
+            const desativarButton = document.getElementById('desativar-button');
+
+            fetch(`get_cliente.php?cliente_id=${clienteId}`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        clienteSection.style.display = 'block';
+                        clienteIdInput.value = clienteId;
+                        nomeInput.value = data.cliente.nome;
+                        document.getElementById('modal-email').value = data.cliente.email;
+                        document.getElementById('modal-telefone').value = data.cliente.telefone ? formatTelefone(data.cliente.telefone) : '';
+                    } else {
+                        alert('Erro ao carregar dados do cliente: ' + data.message);
+                        clienteSection.style.display = 'none';
+                    }
+                })
+                .catch(error => {
+                    alert('Erro ao carregar dados do cliente: falha na conexão com o servidor.');
+                    console.error('Fetch error:', error);
+                    clienteSection.style.display = 'none';
+                });
+
+            aluguelIdInput.value = aluguelId;
+            if (status === 'ativo') {
+                ativarButton.style.display = 'none';
+                desativarButton.style.display = 'inline-block';
+            } else {
+                ativarButton.style.display = 'inline-block';
+                desativarButton.style.display = 'none';
+            }
+
+            modal.style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('actionModal').style.display = 'none';
+        }
+
+        function formatTelefone(telefone) {
+            if (!telefone) return '';
+            if (telefone.length === 11) {
+                return telefone.replace(/(\d{2})(\d{5})(\d{4})/, '($1) $2-$3');
+            } else if (telefone.length === 10) {
+                return telefone.replace(/(\d{2})(\d{4})(\d{4})/, '($1) $2-$3');
+            }
+            return telefone;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const telefoneInput = document.getElementById('modal-telefone');
+            if (telefoneInput) {
+                telefoneInput.addEventListener('input', function(e) {
+                    let value = e.target.value.replace(/\D/g, '');
+                    if (value.length > 11) value = value.slice(0, 11);
+                    if (value.length > 10) {
+                        e.target.value = value.replace(/(\d{2})(\d{5})(\d{4})/, '($1) $2-$3');
+                    } else if (value.length > 6) {
+                        e.target.value = value.replace(/(\d{2})(\d{4})(\d{0,4})/, '($1) $2-$3');
+                    } else if (value.length > 2) {
+                        e.target.value = value.replace(/(\d{2})(\d{0,5})/, '($1) $2');
+                    } else {
+                        e.target.value = value;
+                    }
+                });
+            }
+        });
+
+        window.onclick = function(event) {
+            const modal = document.getElementById('actionModal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        };
+    </script>
+</body>
+</html>

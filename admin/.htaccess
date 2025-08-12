@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Redireciona /admin/ ou /admin para /admin/login.php
+RewriteCond %{REQUEST_URI} ^/admin/?$
+RewriteRule ^(.*)$ /admin/login.php [L,R=301]
+
+# Reescrita para URLs não existentes
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]

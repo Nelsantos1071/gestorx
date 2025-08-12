@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Redireciona /client/ ou /client para /client/login.php
+RewriteCond %{REQUEST_URI} ^/client/?$
+RewriteRule ^(.*)$ /client/login.php [L,R=301]
+
+# Reescrita para URLs não existentes (mantém a regra original)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
